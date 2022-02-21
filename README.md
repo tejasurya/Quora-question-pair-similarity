@@ -23,6 +23,6 @@
 <h4>Basic Feature Extraction</h4>
 
 <h2> ML models applied <h2>
-- Binary classification done using Logistic Regression, Linear SVM with hyperparameter tuning and XGBoost model. 
+<p> Binary classification done using Logistic Regression, Linear SVM with hyperparameter tuning and XGBoost model. </p>
 
   
